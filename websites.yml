@@ -1,0 +1,22 @@
+websites:
+    amazon_com_ps5:
+        url: https://www.amazon.com/PlayStation-5-Console/dp/B08FC5L3RG/ref=sr_1_1?dchild=1&keywords=ps5&qid=1616522509&rnid=2941120011&s=videogames&sr=1-1
+        messages: {
+            "stock": "HOSTIAAAAA 😲 Que la PS5 esta en stock! ",
+        }
+    amazon_de_ps5:
+        url: https://www.amazon.de/Sony-Interactive-Entertainment-PlayStation-5/dp/B08H93ZRK9/ref=sr_1_1?dchild=1&keywords=ps5&qid=1616537106&sr=8-1
+        messages: {
+            "stock": "HOSTIAAAAA 😲 Que la PS5 esta en stock!",
+        }
+    amazon_com_ps5_controller:
+        url: https://www.amazon.com/DualSense-Wireless-Controller-PlayStation-5/dp/B08FC6C75Y/ref=pd_sbs_1?pd_rd_w=AKTll&pf_rd_p=651d64d1-3c73-45b6-ae09-e545600e3a22&pf_rd_r=86KH5FG2AJYQV6GKGJ19&pd_rd_r=977bee6c-3e97-476f-bd2e-0f9c528b360b&pd_rd_wg=xwEBT&pd_rd_i=B08FC6C75Y&psc=1
+        messages: {
+            "stock": "HOSTIAAAAA 😲 Que el mando de la PS5 esta en stock! 🔥",
+        }
+    amazon_de_ps5_controller:
+        url: https://www.amazon.de/AimControllers-DualSense-Controller-PlayStation-Personalized/dp/B08JQRYVFM/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=RDBDMIB41IAF&dchild=1&keywords=ps5+controller&qid=1616537130&sprefix=ps5+%2Caps%2C183&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyWFBRNzQzVkQxSDlSJmVuY3J5cHRlZElkPUEwNTQ1Mjc4M0Q2S0QzTUpOUk1QWiZlbmNyeXB0ZWRBZElkPUExMDMxOTcwMU85VU8xRjdFM0ZHQiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=
+        messages: {
+            "stock": "DE .HOSTIAAAAA 😲 Que el mando de la PS5 esta en stock! 🔥",
+        }
+      
